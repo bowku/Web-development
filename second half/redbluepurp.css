@@ -1,0 +1,62 @@
+.whole{ 
+    color:white
+}
+
+.second{
+    background-color: rgb(46, 46, 138);
+    width:80%;
+    font-size:15px
+}
+
+.first {
+    background-color: rgb(245, 0, 82);
+    width:80%;
+    font-size:15px
+
+}
+
+.third{
+    background-color: purple;
+    width:80%;
+    font-size:15px
+}
+
+.text{
+    font-size: 12px;
+    
+}
+
+.bold{
+    font-weight:bold;
+    color:black
+}
+
+.text2{
+    font-size: 16px;
+    font-weight:bold
+}
+
+.right{
+    font-weight:bold;
+    color:purple;
+    
+}
+
+.right2{
+    color:black;
+}
+
+.black{
+    color:black
+}
+
+.bold2{
+    font-weight:bold;
+    color:black;
+    font-size: 14px
+}
+
+.black2{
+    color:black;
+    font-size: 12px
+}
