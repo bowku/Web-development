@@ -1,5 +1,6 @@
 .whole{ 
-    color:white
+    color:white;
+    display:flex
 }
 
 .second{
@@ -60,3 +61,8 @@
     color:black;
     font-size: 12px
 }
+
+.image:hover{
+    opacity: 1%;
+}
+
